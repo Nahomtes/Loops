@@ -12,7 +12,7 @@
    The user will be required to enter an integer.
    You will then calculate the factorial of that integer and print the result to the screen.
 
-9. Write loops to print the following:
+9. Write loops to print the following: 
 
           i)                   ii)                  iii)
             **********            *                             *
